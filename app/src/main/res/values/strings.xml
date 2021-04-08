@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">User_Data</string>
+    <string name="can_you_guess_my_name">Can you Guess my Name ??</string>
+    <string name="can_you_guess_my_city">Can you Guess My City ??</string>
+    <string name="can_you_guess_my_email">CAN YOU GUESS MY Email ??</string>
+    <string name="can_you_guess_my_state">CAN YOU GUESS MY STATE ??</string>
+    <string name="can_you_guess_my_phone_number">CAN YOU GUESS MY PHONE-NUMBER ??</string>
+    <string name="login">Login</string>
+    <string name="login_page">Login Page</string>
+    <string name="email_id">Email-Id</string>
+    <string name="new_user_click_here">New User ?? Click Here</string>
+    <string name="name">Name</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="phone_number">Phone-Number</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign_Up</string>
+    <string name="sign_up_page">Sign-Up Page</string>
+    <string name="already_have_account_click_here">Already Have Account ?? Click Here</string>
+</resources>
